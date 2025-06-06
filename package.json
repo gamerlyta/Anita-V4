@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "David Cyril",
+  "author": "LYTA",
   "license": "MIT",
   "dependencies": {
     "baileys-mod": "latest",
